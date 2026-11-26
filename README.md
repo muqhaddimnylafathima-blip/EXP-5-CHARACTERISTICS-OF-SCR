@@ -16,7 +16,9 @@ Once the SCR is turned ON, it remains in the ON state even after the gate curren
 The SCR V-I characteristic consists of forward blocking, forward conduction and reverse blocking regions. In the forward blocking region, only a small leakage current flows. After triggering, the SCR enters the forward conduction region, where the current increases substantially while the voltage across the device is low. In reverse bias, only a small reverse leakage current flows until breakdown.
 4. PIN DIAGRAM / SYMBOL
 SCR terminals:  Anode (A)   |   Gate (G)   |   Cathode (K)
-5. CIRCUIT CONNECTION
+<img width="867" height="479" alt="pin diagram" src="https://github.com/user-attachments/assets/40c8ad8a-41b8-41d3-b9cc-a426d85b1382" />
+
+6. CIRCUIT CONNECTION
 The main anode-cathode circuit consists of the regulated DC supply, a 1 kΩ series resistor, an ammeter and the SCR. A voltmeter is connected across the SCR to measure VAK. A separate regulated supply is connected through a 1 kΩ resistor to the gate, with a gate ammeter to measure IG.
  
 Reference circuit diagram from the supplied lab record.
