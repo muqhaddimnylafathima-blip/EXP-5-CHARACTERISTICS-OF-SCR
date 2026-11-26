@@ -17,13 +17,12 @@ The SCR V-I characteristic consists of forward blocking, forward conduction and 
 4. PIN DIAGRAM / SYMBOL
 SCR terminals:  Anode (A)   |   Gate (G)   |   Cathode (K)
 5. CIRCUIT CONNECTION
-
-6. 
 The main anode-cathode circuit consists of the regulated DC supply, a 1 kΩ series resistor, an ammeter and the SCR. A voltmeter is connected across the SCR to measure VAK. A separate regulated supply is connected through a 1 kΩ resistor to the gate, with a gate ammeter to measure IG.
  
 Reference circuit diagram from the supplied lab record.
 6. CHARACTERISTIC CURVE
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-26 102104" src="https://github.com/user-attachments/assets/21d24030-4e65-433b-ba3f-c860281dcc7a" />
 
 
 
@@ -63,6 +62,7 @@ Holding voltage, VH ≈ 0.72 V (from the recorded observation).
 Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
 Forward resistance, RF = ΔVAK / ΔIAK, to be obtained from the slope of the appropriate portion of the plotted characteristic.
 10. RESULT
+11. <img width="1920" height="1080" alt="Screenshot 2026-11-26 102123" src="https://github.com/user-attachments/assets/f78af45f-e441-4920-9964-659bffe5c5ae" />
 The V-I characteristics of the SCR have been studied and plotted.
 Forward breakover voltage, VBO = 11.5 V.
 Holding voltage, VH = 0.72 V.
